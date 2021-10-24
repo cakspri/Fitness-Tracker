@@ -5,7 +5,7 @@ For this assignment, we're asked to create a Mongo database with a Mongoose sche
 
 
 # SOLUTION: 
-Submission: 🗂️ [Github Repository](https://github.com/DionneNoellaBarretto/18-FitnessTracker_Mongo-NoSQL-_Mongoose_Express_FullStack) |  📄[Heroku Page](https://calm-cove-09758.herokuapp.com/)
+Submission: 🗂️ [Github Repository](https://github.com/cakspri/Fitness-Tracker) |  📄[Heroku Page](https://calm-cove-09758.herokuapp.com/)
 
 <!-- https://devcenter.heroku.com/articles/deploying-nodejs - Deploying in Heroku -->
 --------------------------------
